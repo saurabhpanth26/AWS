@@ -1,0 +1,8 @@
+Agenda
+
+- What is Cloud?
+- Public vs Private Cloud?
+- Why public cloud is popular?
+- Why AWS?
+- Trends of people moving back to Private Cloud?
+- Create a AWS Account and get started?
